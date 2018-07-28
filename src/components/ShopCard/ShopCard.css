@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "chalkduster";
+  src: url('Chalkduster.eot?#iefix') format('embedded-opentype'),
+  url('Chalkduster.eot'),
+  url('Chalkduster.woff') format('woff'), 
+  url('Chalkduster.ttf')  format('truetype'),
+  url('Chalkduster.svg#svgFontName') format('svg');
+}
+
+#shopTitle{
+  font-family: chalkduster;
+  font-size: 3vw;
+}
+
+#shopCard{
+  margin: 0 5%;
+  margin-bottom: 20px;
+}
+
+#shopCardList{
+  box-shadow: 0 4px 8px 3px rgba(0, 0, 0, 0.2);
+}
+
+a{
+  padding: 20px;
+}
+article{
+  padding: 10px;
+}

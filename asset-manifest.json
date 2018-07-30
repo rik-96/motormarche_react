@@ -1,14 +1,17 @@
 {
-  "main.css": "static/css/main.6fdfca13.css",
-  "main.css.map": "static/css/main.6fdfca13.css.map",
-  "main.js": "static/js/main.ced8c989.js",
-  "main.js.map": "static/js/main.ced8c989.js.map",
+  "main.css": "static/css/main.d81fe999.css",
+  "main.css.map": "static/css/main.d81fe999.css.map",
+  "main.js": "static/js/main.3888d9c7.js",
+  "main.js.map": "static/js/main.3888d9c7.js.map",
   "static/media/Chalkduster.eot": "static/media/Chalkduster.4a4bf398.eot",
   "static/media/Chalkduster.svg": "static/media/Chalkduster.94e50f92.svg",
   "static/media/Chalkduster.ttf": "static/media/Chalkduster.bd9805cb.ttf",
   "static/media/Chalkduster.woff": "static/media/Chalkduster.8b02f279.woff",
   "static/media/audiring.jpg": "static/media/audiring.582abc04.jpg",
   "static/media/bag1.jpeg": "static/media/bag1.3b8b22f4.jpeg",
+  "static/media/banner.png": "static/media/banner.0c31f955.png",
+  "static/media/banner4.jpg": "static/media/banner4.fa602bb6.jpg",
+  "static/media/black.jpg": "static/media/black.c9b8d3f7.jpg",
   "static/media/clth1.jpg": "static/media/clth1.2261b812.jpg",
   "static/media/clth2.jpg": "static/media/clth2.99bb10e5.jpg",
   "static/media/clth3.jpg": "static/media/clth3.7f6c2a0e.jpg",
@@ -16,5 +19,8 @@
   "static/media/clth5.jpg": "static/media/clth5.4603b160.jpg",
   "static/media/glove1.jpg": "static/media/glove1.c2ff4511.jpg",
   "static/media/light1.jpg": "static/media/light1.c3163cab.jpg",
-  "static/media/serv6.jpg": "static/media/serv6.65188bc8.jpg"
+  "static/media/serv1.jpg": "static/media/serv1.620d2a7e.jpg",
+  "static/media/serv5.jpg": "static/media/serv5.aa9ce182.jpg",
+  "static/media/serv6.jpg": "static/media/serv6.65188bc8.jpg",
+  "static/media/serv7.jpg": "static/media/serv7.ff360178.jpg"
 }
